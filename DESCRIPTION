@@ -1,0 +1,11 @@
+Package: qframe
+Title: Enables special data frames that allow regex queries on row and col names.
+Version: 0.0.1
+Authors: Frank Gootjes
+Description: Enables special data frames that allow regex queries on row and col names.
+Depends: R (>= 3.5.1)
+Requires: stringr
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
